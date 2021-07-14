@@ -1,0 +1,113 @@
+<section class="latest section" style="border:dotted 1px;">
+              <div class="section-inner">
+              <h2 class="heading">Resources: Ontology, Vocabulary, Lexicon, Corpus</h2>
+                  <div class="content">
+
+                   <font  size="2" color="black">
+
+                    We are committed to publishing <b style="color:Maroon;"> open-source resources </b> </li></li>  that can be used by the community of researchers for education, evaluation, testing, and comparison.
+
+
+                    <ul>
+                 <li> <b>  <a style="color:blue;" href="http://w3id.org/cevo"> CEVO:  </b> </a> Comprehensive EVent Ontology Enhancing Cognitive Annotation (CEVO) [1] built on Levin’s conceptual hierarchy of English verbs
+                  that categorizes verbs with the shared meaning and syntactic behavior. The motivation of this work comes from the fact that there is a deficiency in research on the abstract conceptualization required to organize relations. Abstract conceptualization can benefit various communities and applications such as NLP, information extraction, and ML.
+      <li> <b>  <a style="color:blue;" href="http://w3id.org/empathi"> empathi:  </b> </a> an ontology for Emergency Managing and Planning about Hazard Crises [2]. In the domain of emergency management during hazard crises, having sufficient situational awareness information is critical. It conceptualizes the core concepts concerning with the domain of emergency managing and planning of hazard crises.
+      <li> <b>  <a style="color:blue;" href="https://github.com/Mrezvan94/Harassment-Corpus"> A quality type-aware annotated corpus and lexicon for harassment research:  </b> </a>  provided both a quality annotated corpus and an offensive words lexicon capturing different types of harassment content: (i) sexual, (ii) racial, (iii) appearance-related, (iv) intellectual, and (v) political. This corpus consists of 25,000 annotated tweets for the five types of harassment content [3].
+      <li> <b>  <a style="color:blue;" href="https://github.com/WDAqua/QAOntology"> qa ontology </b> </a> is a message-driven vocabulary built upon an abstract level. This vocabulary is concluded from the conceptual views of different QA systems. It enables researchers and industry to implement message-driven QA systems and to reuse and extend different approaches without interoperability and extension concerns [4].
+
+      </ul>
+
+
+
+
+      <ol>
+      <li> 	Saeedeh Shekarpour, Faisal alshargi, Valerie L. Shalin, Krishnaprasad Thirunarayan, Amit P. Sheth:
+        CEVO: Comprehensive EVent Ontology Enhancing Cognitive Annotation. ICSC 2019
+      </li>
+          <li> Manas Gaur, Saeedeh Shekarpour, Amelie Gyrard, Amit P. Sheth:
+          empathi: An ontology for Emergency Managing and Planning about Hazard Crisis. ICSC 2019		</li>
+          <li>	Mohammadreza Rezvan, Saeedeh Shekarpour, Lakshika Balasuriya, Krishnaprasad Thirunarayan, Valerie L. Shalin, Amit P. Sheth:
+          A Quality Type-aware Annotated Corpus and Lexicon for Harassment Research. WebSci 2018: 33-36 <b style="color:Maroon;"> Best of WebSci (Top-5)</b> </li></li>
+          <li>	Kuldeep Singh, Andreas Both, Dennis Diefenbach, Saeedeh Shekarpour:
+            Towards a Message-Driven Vocabulary for Promoting the Interoperability of Question Answering Systems. ICSC 2016: 386-389
+        </li>
+      </ol>
+
+
+
+    </font>
+
+              </div><!--//section-inner-->
+          </section><!--//section-->
+
+
+
+
+
+           <section class="latest section" style="border:dotted 1px;">
+              <div class="section-inner">
+              <h2 class="heading">Presentations and Talks (Selected)</h2>
+                  <div class="content">
+
+                   <font  size="2" color="black">
+
+
+                    <ul>
+               <li> <b style="color:Maroon;"> Web Scie 2018, </b> Harassment corpus and lexicon, Amsterdam, Netherland, May 2018. </li>
+      <li> “Using Knowledge Graph for Promoting Cognitive Computing”, <b style="color:Maroon;"> IBM research 2017 </b>, Almaden, California.  </li>
+     <li> QA Tutorial in Web Intelligence Summer School, Saint-Etienne, France, Sep 2015.
+    <li> “SINA: a semantic search engine” in <b style="color:Maroon;"> IBM Research Center (Watson project-DeepQA) </b>, NY, USA, Dec 2013.  </li>
+    <li> <b style="color:Maroon;"> World Wide Web Conference(WWW 2013) </b>, Rio de Janeiro, Brazil, May 2013. 	 </li>
+    <li> Joint International Semantic Technology Conference(JIST2012), Nara, Japan. Dec 2012.	 </li>
+    <li> International Semantic Web Conference(ISWC 2011), Bonn, Germany, Oct 2011.	 </li>
+    <li> Web Intelligence Conference(WIIA 2011), Lyon, France, Aug 2011.  </li>
+
+      </ul>
+
+
+    </font>
+
+              </div><!--//section-inner-->
+          </section><!--//section-->
+
+
+
+
+           <section class="latest section" style="border:dotted 1px;">
+              <div class="section-inner">
+              <h2 class="heading">Current Projects</h2>
+                  <div class="content">
+
+                   <font  size="2" color="black">
+
+                    <ul>
+                 <li> <b> 2019: </b> Developing a cognitive Engine for Chatbot Technology
+                 <li> <b> 2018-present: </b> Learning Domain-specific Embeddings for Knowledge Graphs and Text
+                 <li> <b> 2018-present: </b> Knowledge Extraction and Management
+      </ul>
+    </font>
+
+              </div><!--//section-inner-->
+          </section><!--//section-->
+
+
+
+
+           <section class="latest section" style="border:dotted 1px;">
+              <div class="section-inner">
+              <h2 class="heading">Past Projects</h2>
+
+                  <div class="content">
+                   <font  size="2" color="black">
+
+                    <ul>
+                  <li> <a style="color:blue;" href="https://www.researchgate.net/project/Knowledge-Graph"> Knowledge Graph </a> 2016-present
+                  <li> <a style="color:blue;" href="http://wiki.knoesis.org/index.php/Context-Aware_Harassment_Detection_on_Social_Media"> Harassment </a> 2017: Context-Aware Harassment Detection on Social Media.
+                  <li> <a style="color:blue;" href="http://wiki.knoesis.org/index.php?title=Social_and_Physical_Sensing_Enabled_Decision_Support&redirect=no"> HazardsSEES </a> 2016-2017: Social and Physical Sensing Enabled Decision Support.
+      <li> <a style="color:blue;" href="http://wdaqua.eu/"> WDAQUA </a> 2015: Answering Questions using Web Data.
+      <li> <a style="color:blue;" href="http://aksw.org/Projects/SINA.html"> SINA </a> 2010-2014: Semantic Interpretation of Natural Language questions towards question Answering.
+       </ul>
+    </font>
+       </div><!--//content-->
+              </div><!--//section-inner-->
+          </section><!--//section-->
